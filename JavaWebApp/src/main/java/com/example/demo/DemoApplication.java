@@ -11,6 +11,8 @@ public class DemoApplication {
 
 		Spring name = "nonoo";
 		System.out.printIn(name);
+		Intger age = "20";
+		System.out.printIn(age + 5);
 	}
 
 }
